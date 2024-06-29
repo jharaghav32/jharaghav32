@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jharaghav32?tab=repositories](https://github.com/jharaghav32?tab=repositories)
 
-- 📫 How to reach me **jharaghav3209@gmail.com**
+- 📫 How to reach me **raghavkumarjha3209@gmail.com**
 - My portfolio -[https://nextportfolio-umber.vercel.app/](https://nextportfolio-umber.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
